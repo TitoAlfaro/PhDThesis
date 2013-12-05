@@ -1,0 +1,25 @@
+Prior Work
+
+-There has been significant UI work in haptic/tactile interfaces.  Your  “related work / bibliography” is hoghly incomplete and needs to be bolstered very considerably.
+
+-There has been less work in heat/cold in the interface but definitely some - see e.g.
+
+Paulos' Connexus project. 
+
+-In terms of the broader question as to whether senses that one cannot "read" can be used to represent data, the auditory displays field (see ICAD, conference and journal) has been working this angle for 20 years.
+
+ 
+
+Detailed Proposal and Means of Evaluation
+
+The Proposed Activities on pp 11-12 fails to address the deeper thesis level question(s) you are asking.  You outline three relatively quick and unrelated projects that do not seem to comprise a coherent whole sufficient to meet the requirements of a  dissertation.  As a minimum you need to lay out a detailed and cohesive proposal of what you intend to do (detailed proposal), what PhD level dissertation question(s) you are attempting to answer and your means of evaluating the results.
+
+ 
+
+If your thesis work is to be a series of small projects, you need a clearer statement of a unifying framework which is going to be at the core of your thesis, and then how these projects fit into that framework - are they particularly interesting places in some space of interaction techniques?
+
+Do they individually test a subset or your hypotheses?
+
+ 
+
+Many of the questions you ask require some implementation and then evaluation to answer, e.g. value for both experienced and novice users implies that something has been working long enough for some users to become "experienced".  Similarly the "user adoption" questions will require experimentation, not just building a prototype, to answer.
