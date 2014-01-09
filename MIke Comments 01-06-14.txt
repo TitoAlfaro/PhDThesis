@@ -1,0 +1,7 @@
+I think there are some other questions that might be added, such as the distinction between awareness and magnitude estimation: e.g. whether users can correctly judge strength of the information, distance, direction, etc. and how that relates to the sense being used, as well as what that suggests about which senses and transformations map best to which user experience scenarios.  I’m not really sure about the ultrasound one, either, but if you take it out you need something else or the experiment looks a bit thin.
+
+Something that I’ve always thought would be cool is a pair of pliers that have a pressure sensor on their tips and maybe a temperature sensor too, and transmit that information to the grips where it’s reconstructed on a bigger scale so that the user can better feel the tiny object held by the pliers.
+
+The other thing you should do is write a nice cover letter to MASCOM thanking them for their feedback and outlining the changes you made to the proposal to address their comments/concerns.
+
+—M.
