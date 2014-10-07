@@ -1,0 +1,28 @@
+06-10-2014 12:21:28
+
+RIGHT in  162.692939001
+
+RIGHT in  129.813605001
+
+RIGHT in  140.961035
+
+WRONG in  116.84306 it was 2
+
+RIGHT in  76.93159
+
+RIGHT in  57.324384001
+
+With FeedBack RIGHT in  48.815916
+
+With FeedBack RIGHT in  68.875603999
+
+With FeedBack RIGHT in  98.580536999
+
+With FeedBack RIGHT in  33.409263
+
+With FeedBack RIGHT in  97.960949001
+
+With FeedBack RIGHT in  70.508733
+
+
+End of File 06-10-2014 12:42:07

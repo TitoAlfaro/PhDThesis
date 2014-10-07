@@ -1,0 +1,23 @@
+04-10-2014 07:22:37
+
+
+With FeedBack RIGHT in  465.072472999
+
+With FeedBack RIGHT in  137.078625
+
+With FeedBack RIGHT in  105.511638
+With FeedBack RIGHT in  51.909295
+With FeedBack RIGHT in  69.045798
+With FeedBack RIGHT in  180.700965
+With FeedBack RIGHT in  66.773314
+
+With FeedBack WRONG in  57.530366 it was 2
+RIGHT in  99.198646
+RIGHT in  80.109643999
+WRONG in  85.081676 it was 2
+RIGHT in  83.368864001
+RIGHT in  64.472270001
+RIGHT in  36.735478001
+WRONG in  78.282280001 it was 3
+WRONG in  47.957704 it was 3
+End of File 04-10-2014 07:51:28
