@@ -1,0 +1,68 @@
+<html>
+<head>
+
+</head>
+
+<body>
+<h1>Leap yeah!!</h1>
+<div id="output"></div>
+
+
+</body>
+
+<script src="leap-0.6.4.js"></script>
+
+    <button id="b">export to CSV</button>
+<script type="text/javascript">
+
+function concatData(id, data) {
+	return id = "; " + data + "<br>";
+}
+
+function concatJointPosition (id, position) {
+	return id + "; " + position[0] + ", " + position[1] + ", " +position[2] + "<br>";
+}
+
+var output = document.getElementById("output");
+var frameString = "", handString = "", fingerString = "";
+var hand, finger;
+
+// Setup Leap loop with frame callback function
+var options = {enableGestures: true};
+
+
+Leap.loop(options, function(frame) {
+	frameString = concatData("frame_id", frame.id);
+	frameString += concatData("num_hands", frame.hands.length);
+	frameString += concatData("numf_fingers", frame.fingers.length);
+	frameString += "<br>"
+  
+    for (var i = 0, len = frame.hands.length; i < len; i++) {
+		hand = frame.hands[i];
+        handString = concatData("hand_type", hand.type);
+        handString = concatData("hand_type", hand.dipPosition);
+        handString = concatData("hand_position", hand.palmPosition);
+	
+		handString += "<br>";
+		
+		frameString += handString;
+		
+	}
+  
+	output.innerHTML = frameString;
+	
+  function exportToCsv() {
+            var myCsv = "Col1,Col2,Col3\nval1,val2,val3";
+
+            window.open('data:text/csv;charset=utf-8,' + escape(frameString));
+        }
+
+        var button = document.getElementById('b');
+        button.addEventListener('click', exportToCsv);
+  
+  
+});
+
+</script>
+
+</html>
