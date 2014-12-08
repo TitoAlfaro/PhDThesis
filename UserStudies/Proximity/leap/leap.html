@@ -19,10 +19,6 @@ function concatData(id, data) {
 	return id = "; " + data + "<br>";
 }
 
-function concatJointPosition (id, position) {
-	return id + "; " + position[0] + ", " + position[1] + ", " +position[2] + "<br>";
-}
-
 var output = document.getElementById("output");
 var frameString = "", handString = "", fingerString = "";
 var hand, finger;
@@ -40,8 +36,9 @@ Leap.loop(options, function(frame) {
     for (var i = 0, len = frame.hands.length; i < len; i++) {
 		hand = frame.hands[i];
         handString = concatData("hand_type", hand.type);
-        handString = concatData("hand_type", hand.dipPosition);
-        handString = concatData("hand_position", hand.palmPosition);
+		handString += "Palm Position X: " + concatData("hand_position", hand.palmPosition[0]);
+		handString += "Palm Position Y: " + concatData("hand_position", hand.palmPosition[1]);
+		handString += "Palm Position Z " + concatData("hand_position", hand.palmPosition[2]);
 	
 		handString += "<br>";
 		
@@ -51,14 +48,13 @@ Leap.loop(options, function(frame) {
   
 	output.innerHTML = frameString;
 	
-  function exportToCsv() {
-            var myCsv = "Col1,Col2,Col3\nval1,val2,val3";
-
-            window.open('data:text/csv;charset=utf-8,' + escape(frameString));
-        }
-
-        var button = document.getElementById('b');
-        button.addEventListener('click', exportToCsv);
+	var fs = require('fs');
+	var wstream = fs.createWriteStream('myOutput.txt');
+	wstream.write('Hello world!\n');
+	wstream.write('Another line\n');
+	wstream.end();
+	
+ 
   
   
 });
