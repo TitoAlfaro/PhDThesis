@@ -1,0 +1,68 @@
+
+p22: broken reference here and on following pages (but I assume you've fixed that by now)
+
+p24: "willingness communicate" should be "willingness to communicate"
+
+p25: "were not only" should be "where not only"
+
+p28, fig 20: "collection of sensor" should be "collection of sensors"
+
+p29: "User Interface" doesn't need to be capitalized
+
+p31: "The iterations would concentrate on testing different ways of conveying the data to the body I call this Testing the Feedback."  This wants to be two sentences (or else to be rewritten to be one proper sentence).
+
+p32: "they could see were the sensor" should be "they could see where the sensor".  Also, the sentence where this appears is a bit long and might better be broken up.
+
+p32: please provide here a little text (not just a chart) summarizing more about what these studies were really sensing as input.  For example, no one not at the Media Lab knows what "Foodcam" is, and it's not given here what "Stress" was really measuring.
+
+p33: "understanding how not only the brain but the user is able to use these new sensory experiences in daily life."  I know what you mean here but there is probably a better way to convey that idea.  Something about how the brain can interpret the data and how the user can apply that interpretation to solve some problem.
+
+p34: "Sony Table S" should be "Sony Tablet S"
+
+p36: "venturing and answer" should be "venturing an answer"
+
+p41: "corners and made it easy to identify" should be "corners, making it easy to identify"
+
+p42: "Since the first two phases had dealt with, essentially, 2D shapes. This phase presented a Cube, a Prism and a Sphere."  These two sentences really want to be one sentence (since the first is a sentence fragment)
+
+p43: "the subjects hand" should be "the subject's hand"
+
+p43: I think that "as long as it is constant" should probably be "as long as it is consistent"
+
+p44: somewhere around here you really need to respond to the (correct) criticism that the preceding three studies weren't entirely randomized (for example, the sensitivities always were done in the same sequence).  It's okay just to acknowledge that fact, and to say that future research really needs to be done with a bigger study and a more random sequence.  Or you can go into more detail about the likely biases that resulted from the way you sequenced the trials. But you have to say something...
+
+p49: "what the user had learned the sensor would behave" should be "how the user had learned the sensor would behave".  Also, later in this sentence "an so" should be "and so".  And this is a really run-on-forever sentence and probably needs to be turned into at least two sentences.
+
+p55: "red light of wrong" should be "red light for wrong"
+
+p56: The discussion "Even so, there is an effect to having a visual feedback but this is only in the behavior of the subjects. Having a visual feedback of the result made the experience more enjoyable like a game. This means that the subjects felt more involved in the experience and tried extra hard to get it right, this was reflected in a slight increase in time when feedback was given over when there was none." is very hard to interpret.  Can you please clarify this a bit?
+
+p59: "That way you had a good upper value"  Do you mean, "That way the subject had a good upper value"?
+
+p60: "It also created one of the most enjoyable experiences because it had a good range of change that was easy to feel and going from room to room there was always a change, but it wasn’t until the subject went down a hallway when a series of quick changes would happen and it became evident because the subject was walking under a series of light fixtures." is a clunky sentence.  Please clean it up a bit to make it clearer.
+
+p61: "costume smells" should be "custom smells"
+
+p61: "media lab" should be capitalized
+
+p64: "well know environmental" should be "well known environmental" and "players temperature" should be "player's temperature" (likewise for "players face")
+
+p65: double line space in the middle of the "Hardware" paragraph
+
+p65: "Using and Android" should be "Using an Android"
+
+p65: "harder and I initially" should be "harder than I initially"
+
+p66: "This means that either my sensor was not adequate. Either not sensible enough or the FOV was too broad and it detected too much of the ambient temperature that would wash over the small changes I was looking for."  These sentences and sentence fragments need cleaning up.
+
+p68: please give a reference for DoppelLab (there are many to choose from)
+
+p68: "important lessons where found" should be "important lessons were found"
+
+p69: "quickly assimilated to" should probably be more correctly "quickly adjusted to"
+
+p69: "war to warmer" should be "warm to warmer"
+
+p69: "brain had assimilated a constant temperature," should be "brain had become accustomed to a constant temperature,"
+
+p69: "even giving the illusion of close to burning. Even though I knew that the peltier was simply going from cold to room temperature." please get rid of the period and make this into one sentence
